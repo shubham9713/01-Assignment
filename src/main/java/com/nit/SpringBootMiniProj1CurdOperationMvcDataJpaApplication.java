@@ -10,4 +10,5 @@ public class SpringBootMiniProj1CurdOperationMvcDataJpaApplication {
 		SpringApplication.run(SpringBootMiniProj1CurdOperationMvcDataJpaApplication.class, args);
 	}
 
+	
 }
